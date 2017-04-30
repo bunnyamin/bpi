@@ -1,2 +1,2 @@
-# bpi (Bunny Python Implementation)
+# BPI (Bunny Python Implementation)
 ...
